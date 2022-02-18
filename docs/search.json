@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-02-18T14:37:55-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Invasive Species Expert Elicitation Workshop",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nText for homepage.\n\n\n\n",
+      "last_modified": "2022-02-18T14:37:56-05:00"
+    },
+    {
+      "path": "schedule.html",
+      "title": "Schedule",
+      "description": "Workshop schedule\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nPlaceholder for adding schedule\n\n\n\n",
+      "last_modified": "2022-02-18T14:37:57-05:00"
+    }
+  ],
+  "collections": []
+}
