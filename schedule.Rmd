@@ -1,17 +1,20 @@
 ---
-title: "Schedule"
-description: |
-  Workshop schedule
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
+title: "Workshop Itinerary"
 output: distill::distill_article
 ---
 
-Placeholder for adding schedule
+**April 27, 2022**
 
+9:00 - 10:00 &emsp; &emsp; Welcome and introduction <br>
+10:00 - 10:15 &emsp; &emsp; Coffee break <br>
+10:15 - 12:00 &emsp; &emsp; Discuss big ideas about invasive species <br>
+12:00 - 1:00 &emsp; &emsp; Lunch <br>
+1:00 - 3:00 &emsp; &emsp; Contribute responses via Shiny app <br>
 
+<br> <br>
 
+**April 28, 2022**
+
+9:00 - 10:00 &emsp; &emsp; Review all responses <br>
+10:00 - 11:00 &emsp; &emsp; Discuss whether these products make sense <br>
+11:00 - 12:00 &emsp; &emsp; Wrap-up and next steps <br>

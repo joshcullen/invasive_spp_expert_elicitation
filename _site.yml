@@ -1,7 +1,5 @@
 name: "invasive_spp_expert_elicitation"
 title: "Invasive Species Expert Elicitation Workshop"
-description: |
-  Invasive Species Expert Elicitation Workshop
 output_dir: "docs"
 navbar:
   right:
@@ -11,4 +9,12 @@ navbar:
       href: about.html
     - text: "Schedule"
       href: schedule.html
+    - text: "Tutorials"
+      menu:
+        - text: "Step 1: Habitat Suitability"
+          href: habsuit_tutorial.html
+        - text: "Step 2: Range of Occupancy"
+          href: occ_tutorial.html
+    - icon: fab fa-github
+      href: https://github.com/joshcullen/invasive_spp_expert_elicitation
 output: distill::distill_article
