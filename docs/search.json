@@ -4,8 +4,8 @@
       "path": "about.html",
       "title": "About This Workshop",
       "author": [],
-      "contents": "\nThe purpose of this workshop is to elicit expert knowledge on the current geographic range of established invasive species that will be used to project future range shifts or expansions over time. Blah blah blah\nFor any further information regarding this workshop and how these results will be used, please contact xxxx at zzzz.\n\n\n\n",
-      "last_modified": "2022-02-18T15:57:39-05:00"
+      "contents": "\nThe purpose of this workshop is to elicit expert knowledge on the current geographic range of established invasive species that will be used to project future range shifts or expansions over time. Blah blah blah\nFor any further information regarding this workshop and how these results will be used, please contact xxxx at zzzz.\nWhat to bring\nLaptop or tablet\nYour thoughtful contributions\n\n\n\n",
+      "last_modified": "2022-02-24T11:47:07-05:00"
     },
     {
       "path": "habsuit_tutorial.html",
@@ -13,7 +13,7 @@
       "description": "'Step 1' of the Shiny app.\n",
       "author": [],
       "contents": "\nPlaceholder for adding first tutorial.\n\n\n\n",
-      "last_modified": "2022-02-18T15:57:40-05:00"
+      "last_modified": "2022-02-24T11:47:08-05:00"
     },
     {
       "path": "index.html",
@@ -21,7 +21,7 @@
       "description": "April 27-28, 2022 <br>\nUniversity of Florida, Gainesville, FL\n",
       "author": [],
       "contents": "\nThis expert elicitation workshop will seek knowledge from a range of experts on the expected habitat suitability and geographic range of occupancy for up to 20 invasive species throughout the southeastern US. Responses will be aggregated among participants to create weighted composites of expected species occurrence at present and into the future. This workshop is supported by ABC funding sources and is hosted by XYZ people and organizations.\nInvited participants will provide their insight on invasive species habitat suitability and occupancy through an interactive web application created with R Shiny.\n\n\n\n",
-      "last_modified": "2022-02-18T15:57:41-05:00"
+      "last_modified": "2022-02-24T11:47:08-05:00"
     },
     {
       "path": "occ_tutorial.html",
@@ -29,14 +29,21 @@
       "description": "'Step 2' of the Shiny app.\n",
       "author": [],
       "contents": "\nPlaceholder for second tutorial.\n\n\n\n",
-      "last_modified": "2022-02-18T15:57:41-05:00"
+      "last_modified": "2022-02-24T11:47:09-05:00"
     },
     {
       "path": "schedule.html",
       "title": "Workshop Itinerary",
       "author": [],
       "contents": "\nApril 27, 2022\n9:00 - 10:00     Welcome and introduction  10:00 - 10:15     Coffee break  10:15 - 12:00     Discuss big ideas about invasive species  12:00 - 1:00     Lunch  1:00 - 3:00     Contribute responses via Shiny app \n\nApril 28, 2022\n9:00 - 10:00     Review all responses  10:00 - 11:00     Discuss whether these products make sense  11:00 - 12:00     Wrap-up and next steps \n\n\n\n",
-      "last_modified": "2022-02-18T15:57:42-05:00"
+      "last_modified": "2022-02-24T11:47:09-05:00"
+    },
+    {
+      "path": "shiny_app.html",
+      "title": "Invasive Species Shiny App",
+      "author": [],
+      "contents": "\n\n\n\n\n\n",
+      "last_modified": "2022-02-24T11:52:55-05:00"
     }
   ],
   "collections": []
