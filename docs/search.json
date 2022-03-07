@@ -17,11 +17,11 @@
     },
     {
       "path": "index.html",
-      "title": "Invasive Species Expert Elicitation Workshop",
-      "description": "April 27-28, 2022 <br>\nUniversity of Florida, Gainesville, FL\n",
+      "title": "SECASC Invasive Species Expert Elicitation Workshop",
+      "description": "April 27-28, 2022 <br>\nAustin Cary Forest Campus <br>\nUniversity of Florida, Gainesville, FL\n",
       "author": [],
-      "contents": "\nThis expert elicitation workshop will seek knowledge from a range of experts on the expected habitat suitability and geographic range of occupancy for up to 20 invasive species throughout the southeastern US. Responses will be aggregated among participants to create weighted composites of expected species occurrence at present and into the future. This workshop is supported by ABC funding sources and is hosted by XYZ people and organizations.\nInvited participants will provide their insight on invasive species habitat suitability and occupancy through an interactive web application created with R Shiny.\n\n\n\n",
-      "last_modified": "2022-02-24T11:47:08-05:00"
+      "contents": "\nThis expert elicitation workshop aims to use expert elicitation to assess invasive species risk throughout the southeastern US. We have developed a purpose built web application that will be used to collate expert knowledge to produce models of current species distributions and future distributions under climate change. The workshop would focus on approximately 10-15 invasive species that are currently, or have the potential to be, highly detrimental to ecosystems of the SE US. These species come from our initial meeting over Zoom in Autumn 2021 where we ranked species. Thus, this first workshop is quite focused on taxonomic expertise in distribution and ecological/trait data. We will then have a second workshop where we explore management options in light of outputs from workshop 1.\nThis workshop is supported by ABC funding sources and is hosted by XYZ people and organizations.\nInvited participants will provide their insight on invasive species habitat suitability and occupancy through an interactive web application created with R Shiny.\n\n\n\n",
+      "last_modified": "2022-03-07T09:05:09-05:00"
     },
     {
       "path": "occ_tutorial.html",
