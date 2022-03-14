@@ -2,10 +2,15 @@
 title: "About This Workshop"
 ---
 
-The purpose of this workshop is to elicit expert knowledge on the current geographic range of established invasive species that will be used to project future range shifts or expansions over time. Blah blah blah
+The purpose of this workshop is to elicit expert knowledge on the current geographic range of established invasive species that will be used to project future range shifts or expansions over time.
+
+Breakfast and lunch will be provided.
 
 For any further information regarding this workshop and how these results will be used, please contact xxxx at zzzz.
 
+# Prior to attendance
+
+- Participants are asked to complete a trial of the Shiny app to familiarize themselves with the process before attending the workshop (for 3 spp.)
 
 
 # What to bring
