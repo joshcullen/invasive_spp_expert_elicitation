@@ -1,7 +1,6 @@
 name: "invasive_spp_expert_elicitation"
 title: "Invasive Species Expert Elicitation Workshop"
 theme: theme.css
-google_analytics: G-1BGY5C0XKZ
 cookie_consent:
   style: simple
   type: express
@@ -28,3 +27,5 @@ navbar:
     - icon: fab fa-github
       href: https://github.com/joshcullen/invasive_spp_expert_elicitation
 output: distill::distill_article
+  includes:
+    in_header: header.html
