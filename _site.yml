@@ -1,6 +1,13 @@
 name: "invasive_spp_expert_elicitation"
 title: "Invasive Species Expert Elicitation Workshop"
 theme: theme.css
+google_analytics: 307309462
+cookie_consent:
+  style: simple
+  type: express
+  palette: light
+  lang: en
+  cookies_policy: url
 output_dir: "docs"
 navbar:
   right:
