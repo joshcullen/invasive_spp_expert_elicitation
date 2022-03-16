@@ -26,6 +26,7 @@ navbar:
       href: shiny_app.html
     - icon: fab fa-github
       href: https://github.com/joshcullen/invasive_spp_expert_elicitation
-output: distill::distill_article
-  includes:
-    in_header: header.html
+output:
+  distill::distill_article:
+    includes:
+      in_header: header.html
