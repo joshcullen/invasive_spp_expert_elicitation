@@ -1,7 +1,7 @@
 name: "invasive_spp_expert_elicitation"
 title: "Invasive Species Expert Elicitation Workshop"
 theme: theme.css
-google_analytics: 307309462
+google_analytics: G-1BGY5C0XKZ
 cookie_consent:
   style: simple
   type: express
@@ -21,7 +21,7 @@ navbar:
       menu:
         - text: "Step 1: Habitat Suitability"
           href: habsuit_tutorial.html
-        - text: "Step 2: Range of Occupancy"
+        - text: "Step 2: Relative Prevalence"
           href: occ_tutorial.html
     - text: "App"
       href: shiny_app.html
