@@ -21,7 +21,9 @@
       "description": "April 27-28, 2022 <br>\nAustin Cary Forest Campus <br>\nUniversity of Florida, Gainesville, FL\n",
       "author": [],
       "contents": "\nThis expert elicitation workshop aims to use expert elicitation to assess invasive species risk throughout the southeastern US. We have developed a purpose built web application that will be used to collate expert knowledge to produce models of current species distributions and future distributions under climate change. The workshop would focus on approximately 10-15 invasive species that are currently, or have the potential to be, highly detrimental to ecosystems of the SE US. These species come from our initial meeting over Zoom in Autumn 2021 where we ranked species. Thus, this first workshop is quite focused on taxonomic expertise in distribution and ecological/trait data. We will then have a second workshop where we explore management options in light of outputs from workshop 1.\nThis workshop is supported by ABC funding sources and is hosted by XYZ people and organizations.\nInvited participants will provide their insight on invasive species habitat suitability and occupancy through an interactive web application created with R Shiny. This web app can be accessed from the ‘App’ tab at the top of the page or through the link to shinyapps.io.\n\n\n\n",
+
       "last_modified": "2022-03-23T09:25:27-04:00"
+
     },
     {
       "path": "occ_tutorial.html",
