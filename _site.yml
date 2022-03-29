@@ -2,7 +2,7 @@ name: "invasive_spp_expert_elicitation"
 title: "Invasive Species Expert Elicitation Workshop"
 theme: theme.css
 cookie_consent:
-  style: simple
+  style: standalone
   type: express
   palette: light
   lang: en
@@ -16,6 +16,10 @@ navbar:
       href: about.html
     - text: "Schedule"
       href: schedule.html
+    - text: "Participants"
+      href: participants.html
+    - text: "Methods"
+      href: methods.html
     - text: "Tutorials"
       menu:
         - text: "Step 1: Habitat Suitability"
