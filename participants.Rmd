@@ -3,7 +3,28 @@ title: "Participants"
 output: distill::distill_article
 ---
 
-Placeholder for participants list
-
+- **Jane Anderson**	(*The Wildlife Society*)
+- **Alex Baecher**	(*University of Florida*)
+- **Brittany Bankovich**	(*Florida Fish and Wildlife Conservation*)
+- **Natalie	Claunch**	(*University of Florida*)
+- **Josh Cullen**	(*Florida State University*)
+- **Wes	Daniel**	(*U.S. Geological Survey*)
+- **Kevin	Enge**	(*Florida Fish and Wildlife Conservation*)
+- **Luke Evans**	(*University of Florida*)
+- **Bryan	Falk**	(*Everglades and Dry Tortugas National Parks*)
+- **Lee Fitzgerald**	(*Texas A&M University*)
+- **Rob Fletcher**	(*University of Florida*)
+- **Sarah	Funck**	(*Florida Fish and Wildlife Conservation*)
+- **Matt	Hallett**	(*University of Florida*)
+- **Catherine	Jarnevich**	(*U.S. Geological Survey*)
+- **Steve	Johnson**	(*University of Florida*)
+- **Melissa	Miller**	(*University of Florida*)
+- **Dan	Quinn**	(*Florida Fish and Wildlife Conservation*)
+- **Christina	Romagosa**	(*University of Florida*)
+- **Brett	Scheffers**	(*University of Florida*)
+- **Chris	Searcy**	(*University of Miami*)
+- **McKayla	Spencer**	(*Florida Fish and Wildlife Conservation*)
+- **David	Steen**	(*Florida Fish and Wildlife Conservation*)
+- **Amy	Yackel Adams**	(*U.S. Geological Survey*)
 
 

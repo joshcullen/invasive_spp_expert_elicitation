@@ -2,7 +2,7 @@ name: "invasive_spp_expert_elicitation"
 title: "Invasive Species Expert Elicitation Workshop"
 theme: theme.css
 cookie_consent:
-  style: standalone
+  style: interstitial
   type: express
   palette: light
   lang: en
