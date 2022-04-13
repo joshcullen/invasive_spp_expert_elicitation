@@ -5,7 +5,7 @@
       "title": "About This Workshop",
       "author": [],
       "contents": "\nThe purpose of this workshop is to elicit expert knowledge on the current geographic range, habitat suitability, and ecological traits of established invasive species. Data will be collated across participants to derive estimates of current distribution as well as project future range shifts or expansions over time.\nFood\nLunch will be provided. Coffee and snack will be available throughout the day.\nPrior to attendance\nParticipants are asked to complete a trial of the Shiny app to familiarize themselves with the process before attending the workshop (for 3 spp.). Please complete your three species by April 22nd.\nWhat to bring\nLaptop or tablet\nYour thoughtful contributions\nQuestions\nFor any further information regarding this workshop and how these results will be used, please contact Brett Scheffers at brett.scheffers@ufl.edu\n\n\n\n",
-      "last_modified": "2022-04-13T13:52:31-04:00"
+      "last_modified": "2022-04-13T16:06:17-04:00"
     },
     {
       "path": "habsuit_tutorial.html",
@@ -13,7 +13,7 @@
       "description": "'Step 1' of the Shiny app.\n",
       "author": [],
       "contents": "\nPlaceholder for adding first tutorial.\n\n\n\n",
-      "last_modified": "2022-04-13T11:07:41-04:00"
+      "last_modified": "2022-04-13T16:06:18-04:00"
     },
     {
       "path": "index.html",
@@ -21,43 +21,43 @@
       "description": "April 27-28, 2022 <br>\nAustin Cary Forest Campus <br>\nUniversity of Florida, Gainesville, FL\n",
       "author": [],
       "contents": "\nThis expert elicitation workshop aims to use expert elicitation to assess invasive species risk throughout the southeastern US. We have developed a purpose built web application that will be used to collate expert knowledge to produce models of current species distributions and future distributions under climate change. The workshop would focus on approximately 10-15 invasive species that are currently, or have the potential to be, highly detrimental to ecosystems of the SE US. These species come from our initial meeting over Zoom in Autumn 2021 where we ranked species. Thus, this first workshop is quite focused on taxonomic expertise in distribution and ecological/trait data. We will then have a second workshop where we explore management options in light of outputs from workshop 1.\nThis workshop is supported by the Southeast Climate Adaptation Science Center and is hosted by the University of Florida. The workshop leads are:\nBrett Scheffers, Assistant Professor\nLuke Evans, Post-doc\nAlex Baecher, PhD candidate\nInvited participants will provide their insight on invasive species habitat suitability and prevalence through an interactive web application created with R Shiny. This web app can be accessed from the ‘App’ tab at the top of the page or through the link to shinyapps.io.\n\n\n\n",
-      "last_modified": "2022-04-13T11:08:10-04:00"
+      "last_modified": "2022-04-13T16:06:19-04:00"
     },
     {
       "path": "methods.html",
       "title": "Methods",
       "author": [],
       "contents": "\nPlaceholder for methods used\n\n\n\n",
-      "last_modified": "2022-04-13T11:07:41-04:00"
+      "last_modified": "2022-04-13T16:06:19-04:00"
     },
     {
       "path": "occ_tutorial.html",
-      "title": "Quantifying Relative Prevalence of a Species",
+      "title": "Quantifying the Prevalence of a Species",
       "description": "'Step 2' of the Shiny app.\n",
       "author": [],
       "contents": "\nPlaceholder for second tutorial.\n\n\n\n",
-      "last_modified": "2022-04-13T11:07:41-04:00"
+      "last_modified": "2022-04-13T16:06:20-04:00"
     },
     {
       "path": "participants.html",
       "title": "Participants",
       "author": [],
       "contents": "\nJane Anderson (The Wildlife Society)\nAlex Baecher (University of Florida)\nBrittany Bankovich (Florida Fish and Wildlife Conservation)\nNatalie Claunch (University of Florida)\nJosh Cullen (Florida State University)\nWes Daniel (U.S. Geological Survey)\nKevin Enge (Florida Fish and Wildlife Conservation)\nLuke Evans (University of Florida)\nBryan Falk (Everglades and Dry Tortugas National Parks)\nLee Fitzgerald (Texas A&M University)\nRob Fletcher (University of Florida)\nSarah Funck (Florida Fish and Wildlife Conservation)\nMatt Hallett (University of Florida)\nCatherine Jarnevich (U.S. Geological Survey)\nSteve Johnson (University of Florida)\nMelissa Miller (University of Florida)\nDan Quinn (Florida Fish and Wildlife Conservation)\nChristina Romagosa (University of Florida)\nBrett Scheffers (University of Florida)\nChris Searcy (University of Miami)\nMcKayla Spencer (Florida Fish and Wildlife Conservation)\nDavid Steen (Florida Fish and Wildlife Conservation)\nAmy Yackel Adams (U.S. Geological Survey)\n\n\n\n",
-      "last_modified": "2022-04-13T11:07:41-04:00"
+      "last_modified": "2022-04-13T16:06:20-04:00"
     },
     {
       "path": "schedule.html",
       "title": "Workshop Itinerary",
       "author": [],
       "contents": "\nApril 27, 2022\n8:00 am      - Shuttle pickup at hotel 9:00 am - 10:00 am      - Meet and greet - opening presentation by Brett Scheffers with overview of project      - Introductions 10:30 am - 11:00 am      - Coffee/tea break 11:00 am - 12:30 pm      - Introduction to virtual maps (Josh Cullen)      - Completion of virtual maps by all participants      - Group discussion about data availability of species-specific habitat, climate, traits,        life history information 12:30 pm - 1:30 pm      - Lunch 1:30 pm - 3:00 pm      - Breakout groups to discuss, review, and populate checklists of life-history and        physiology traits needed for connectivity modelling (e.g., thermal tolerances,        reproductive output, etc) 3:00 pm - 3:30 pm      - Coffee/tea break 3:30 pm - 5:00 pm      - TBD - e.g., whole group discussion of data compilation (e.g., existing occurrence        data, suitability models, etc) 5:00 pm - 8:00 pm      - Shuttle back to hotel      - Optional happy hour in town - TBD      - Optional Dinner - TBD \n\nApril 28, 2022\n8:30 am      - Shuttle pickup at hotel. For those flying out today, please bring luggage to        workshop for afternoon departure. 9:00 am - 10:30 am      - Review and discuss processed expert elicited maps; maps will be generated        overnight from data collected on Day 1 and participants will rate each map from 0-1. 10:30 am - 11:00 am      - Coffee/tea break 11:00 am - 12:30 pm      - Review and discuss processed expert elicited maps; maps will be generated        overnight from data collected on Day 1 and participants will rate each map from 0-1. 12:30 pm - 1:30 pm      - Lunch 1:30 pm - 3:00 pm      - Discussion of modelling approaches for checklist species      - Compile and provide list of management options 3:00 pm - 3:30 pm      - Coffee/tea break 3:30 pm - 5:00 pm      - Next steps and action items 5:30 pm      - Shuttle back to hotel 7:00 pm      - Dinner location TBA (attendance optional)\n\n\n\n",
-      "last_modified": "2022-04-13T11:07:41-04:00"
+      "last_modified": "2022-04-13T16:06:21-04:00"
     },
     {
       "path": "shiny_app.html",
       "title": "Invasive Species Shiny App",
       "author": [],
       "contents": "\n\n\n\n\n\n",
-      "last_modified": "2022-04-13T11:07:41-04:00"
+      "last_modified": "2022-04-13T16:06:22-04:00"
     }
   ],
   "collections": []
