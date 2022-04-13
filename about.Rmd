@@ -2,18 +2,24 @@
 title: "About This Workshop"
 ---
 
-The purpose of this workshop is to elicit expert knowledge on the current geographic range of established invasive species that will be used to project future range shifts or expansions over time.
+The purpose of this workshop is to elicit expert knowledge on the current geographic range, habitat suitability, and ecological traits of established invasive species. Data will be collated across participants to derive estimates of current distribution as well as project future range shifts or expansions over time.
 
-Breakfast and lunch will be provided.
+# Food
 
-For any further information regarding this workshop and how these results will be used, please contact xxxx at zzzz.
+- Lunch will be provided. Coffee and snack will be available throughout the day.
+
 
 # Prior to attendance
 
-- Participants are asked to complete a trial of the Shiny app to familiarize themselves with the process before attending the workshop (for 3 spp.)
+- Participants are asked to complete a trial of the Shiny app to familiarize themselves with the process before attending the workshop (for 3 spp.). Please complete your three species by April 22nd.
 
 
 # What to bring
 
 - Laptop or tablet
 - Your thoughtful contributions
+
+
+# Questions
+
+For any further information regarding this workshop and how these results will be used, please contact Brett Scheffers at brett.scheffers@ufl.edu

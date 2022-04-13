@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Relative Prevalence of a Species"
+title: "Quantifying the Prevalence of a Species"
 description: |
   'Step 2' of the Shiny app.
 output: distill::distill_article
