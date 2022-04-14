@@ -20,12 +20,8 @@ navbar:
       href: participants.html
     - text: "Methods"
       href: methods.html
-    - text: "Tutorials"
-      menu:
-        - text: "Step 1: Habitat Suitability"
-          href: habsuit_tutorial.html
-        - text: "Step 2: Prevalence"
-          href: occ_tutorial.html
+    - text: "Tutorial"
+      href: app_tutorial.html
     - text: "App"
       href: shiny_app.html
     - icon: fab fa-github
