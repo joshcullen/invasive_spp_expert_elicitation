@@ -1,0 +1,15 @@
+---
+title: "Workshop Objectives"
+output: distill::distill_article
+---
+
+### For a list of invasive and potentially invasive species. We will…
+
+1. Derive a composite estimate (across participants) of habitat suitability
+2. Derive a composite estimate of species relative prevalence across the landscape
+3. Derive estimates of detectability
+4. Compile and/or verify a list of ecologically relevant traits for modeling
+5. Assess current data availability (e.g., location and survey data) for calibration and validation of models
+6. Discuss ongoing and possible management options for scenario-based modeling
+7. Identify future products and collaborative outputs for workshop participants
+

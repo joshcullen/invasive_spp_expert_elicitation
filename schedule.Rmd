@@ -7,54 +7,76 @@ output: distill::distill_article
 
 **8:00 am** <br>
 &emsp; &emsp; - Shuttle pickup at hotel <br>
+
 **9:00 am - 10:00 am** <br>
-&emsp; &emsp; - Meet and greet - opening presentation by Brett Scheffers with overview of project <br>
-&emsp; &emsp; - Introductions <br>
+&emsp; &emsp; - Meet and greet <br>
+&emsp; &emsp; - Opening presentation by Brett Scheffers with overview of project <br>
+&emsp; &emsp; - Introduction to virtual maps (Josh Cullen) <br>
+
 **10:30 am - 11:00 am** <br>
 &emsp; &emsp; - Coffee/tea break <br>
+&emsp; &emsp; - Species detectability exercise <br>
+
 **11:00 am - 12:30 pm** <br>
-&emsp; &emsp; - Introduction to virtual maps (Josh Cullen) <br>
 &emsp; &emsp; - Completion of virtual maps by all participants <br>
-&emsp; &emsp; - Group discussion about data availability of species-specific habitat, climate, traits, <br>
-&emsp; &emsp; &ensp;  life history information <br>
+
 **12:30 pm - 1:30 pm** <br>
 &emsp; &emsp; - Lunch <br>
+&emsp; &emsp; - Species detectability exercise <br>
+
 **1:30 pm - 3:00 pm** <br>
 &emsp; &emsp; - Breakout groups to discuss, review, and populate checklists of life-history and <br>
-&emsp; &emsp; &ensp; physiology traits needed for connectivity modelling (e.g., thermal tolerances, <br>
+&emsp; &emsp; &ensp; physiology traits needed for connectivity modeling (e.g., thermal tolerances, <br>
 &emsp; &emsp; &ensp; reproductive output, etc) <br>
+
 **3:00 pm - 3:30 pm** <br>
 &emsp; &emsp; - Coffee/tea break <br>
+&emsp; &emsp; - Species detectability exercise <br>
+
 **3:30 pm - 5:00 pm** <br>
 &emsp; &emsp; - TBD - e.g., whole group discussion of data compilation (e.g., existing occurrence <br>
 &emsp; &emsp; &ensp; data, suitability models, etc) <br>
+
 **5:00 pm - 8:00 pm** <br>
 &emsp; &emsp; - Shuttle back to hotel <br>
 &emsp; &emsp; - Optional happy hour in town - TBD <br>
-&emsp; &emsp; - Optional Dinner - TBD <br>
+&emsp; &emsp; - Optional dinner - TBD <br>
 
 <br> <br>
 
 ## April 28, 2022
 
 **8:30 am** <br>
-&emsp; &emsp; - Shuttle pickup at hotel. For those flying out today, please bring luggage to <br> &emsp; &emsp; &ensp; workshop for afternoon departure. <br>
+&emsp; &emsp; - Shuttle pickup at hotel <br>
+&emsp; &emsp; - For those flying out today, please bring luggage to workshop for afternoon departure <br>
+
 **9:00 am - 10:30 am** <br>
-&emsp; &emsp; - Review and discuss processed expert elicited maps; maps will be generated <br> &emsp; &emsp; &ensp; overnight from data collected on Day 1 and participants will rate each map from 0-1. <br>
+&emsp; &emsp; - Review and discuss processed expert elicited maps; maps will be generated <br> &emsp; &emsp; &ensp; overnight from data collected on Day 1 and participants will rate each map <br>
+
 **10:30 am - 11:00 am** <br>
 &emsp; &emsp; - Coffee/tea break <br>
+&emsp; &emsp; - Species detectability exercise <br>
+
 **11:00 am - 12:30 pm** <br>
-&emsp; &emsp; - Review and discuss processed expert elicited maps; maps will be generated <br> &emsp; &emsp; &ensp; overnight from data collected on Day 1 and participants will rate each map from 0-1. <br>
+&emsp; &emsp; - Review and discuss processed expert elicited maps; maps will be generated <br> &emsp; &emsp; &ensp; overnight from data collected on Day 1 and participants will rate each map <br>
+&emsp; &ensp; - Mapping additional species in App if time allows <br>
+
 **12:30 pm - 1:30 pm** <br>
 &emsp; &emsp; - Lunch <br>
+&emsp; &emsp; - Species detectability exercise <br>
+
 **1:30 pm - 3:00 pm** <br>
-&emsp; &emsp; - Discussion of modelling approaches for checklist species <br>
+&emsp; &emsp; - Discussion of modeling approaches for checklist species <br>
 &emsp; &emsp; - Compile and provide list of management options <br>
+
 **3:00 pm - 3:30 pm** <br>
 &emsp; &emsp; - Coffee/tea break <br>
+
 **3:30 pm - 5:00 pm** <br>
 &emsp; &emsp; - Next steps and action items <br>
+
 **5:30 pm** <br>
 &emsp; &emsp; - Shuttle back to hotel <br>
+
 **7:00 pm** <br>
 &emsp; &emsp; - Dinner location TBA (attendance optional)

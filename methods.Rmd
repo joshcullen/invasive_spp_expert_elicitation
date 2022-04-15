@@ -1,6 +1,0 @@
----
-title: "Methods"
-output: distill::distill_article
----
-
-Placeholder for methods used

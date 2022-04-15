@@ -14,12 +14,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Objectives"
+      href: objectives.html
     - text: "Schedule"
       href: schedule.html
     - text: "Participants"
       href: participants.html
-    - text: "Methods"
-      href: methods.html
     - text: "Tutorial"
       href: app_tutorial.html
     - text: "App"
