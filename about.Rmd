@@ -11,7 +11,7 @@ The purpose of this workshop is to elicit expert knowledge on the current geogra
 
 # Prior to attendance
 
-- Participants are asked to complete a trial of the Shiny app to familiarize themselves with the process before attending the workshop (for 3 spp.). Please complete your three species by April 22nd.
+- Participants are asked to complete a trial of the Shiny app to familiarize themselves with the process before attending the workshop (for 3 spp.). Please complete your three species by April 21st.
 
 
 # What to bring
