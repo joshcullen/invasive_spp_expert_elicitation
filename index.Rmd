@@ -14,5 +14,6 @@ This workshop is supported by the Southeast Climate Adaptation Science Center an
 - Brett Scheffers, Assistant Professor
 - Luke Evans, Post-doc
 - Alex Baecher, PhD candidate
+- Josh Cullen, Post-doc
 
 Invited participants will provide their insight on invasive species habitat suitability and prevalence through an interactive web application created with R Shiny. This web app can be accessed from the [**'App'**](https://joshcullen.github.io/invasive_spp_expert_elicitation/shiny_app.html) tab at the top of the page or through the link to [**shinyapps.io**](https://joshcullen.shinyapps.io/invasive_expert_elicitation/).
