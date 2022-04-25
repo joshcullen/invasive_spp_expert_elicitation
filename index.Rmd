@@ -2,8 +2,10 @@
 title: "SECASC Invasive Species Expert Elicitation Workshop"
 description: |
   April 27-28, 2022 <br>
-  Austin Cary Forest Campus <br>
-  University of Florida, Gainesville, FL
+  Austin Cary Learning Center <br>
+  University of Florida <br>
+  10625 NE Waldo Rd, Gainesville, FL 32609 <br>
+  Directions here: http://sfrc.ufl.edu/forestcampus/directions/
 site: distill::distill_website
 ---
 

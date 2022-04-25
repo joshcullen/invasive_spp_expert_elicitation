@@ -6,7 +6,7 @@ output: distill::distill_article
 ## April 27, 2022
 
 **8:00 am** <br>
-&emsp; &emsp; - Shuttle pickup at hotel <br>
+&emsp; &emsp; - Depart from Hotel to Austin Cary Learning Center (10625 NE Waldo Rd, Gainesville, FL &emsp; &emsp; &ensp; 32609) <br>
 
 **9:00 am - 10:00 am** <br>
 &emsp; &emsp; - Meet and greet <br>
@@ -38,7 +38,7 @@ output: distill::distill_article
 &emsp; &emsp; &ensp; data, suitability models, etc) <br>
 
 **5:00 pm - 8:00 pm** <br>
-&emsp; &emsp; - Shuttle back to hotel <br>
+&emsp; &emsp; - Depart back to hotel <br>
 &emsp; &emsp; - Optional happy hour in town - TBD <br>
 &emsp; &emsp; - Optional dinner - TBD <br>
 
@@ -47,7 +47,7 @@ output: distill::distill_article
 ## April 28, 2022
 
 **8:30 am** <br>
-&emsp; &emsp; - Shuttle pickup at hotel <br>
+&emsp; &emsp; - Depart from Hotel to Austin Cary Learning Center (10625 NE Waldo Rd, Gainesville, FL &emsp; &emsp; &ensp; 32609) <br>
 &emsp; &emsp; - For those flying out today, please bring luggage to workshop for afternoon departure <br>
 
 **9:00 am - 10:30 am** <br>
@@ -76,7 +76,7 @@ output: distill::distill_article
 &emsp; &emsp; - Next steps and action items <br>
 
 **5:30 pm** <br>
-&emsp; &emsp; - Shuttle back to hotel <br>
+&emsp; &emsp; - Depart back to hotel <br>
 
 **7:00 pm** <br>
 &emsp; &emsp; - Dinner location TBA (attendance optional)
